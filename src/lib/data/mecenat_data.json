@@ -1,0 +1,639 @@
+{
+	"site": {
+		"name": "Studentdeals",
+		"searchPlaceholder": "Hitta dina studentrabatter",
+		"openApp": "Öppna appen",
+		"support": "Support",
+		"signup": "Skapa konto",
+		"login": "Logga in"
+	},
+	"hero": {
+		"title": "Studentrabatter du älskar ❤️",
+		"subtitle": "Samla alla dina studentrabatter på ett ställe och få mer för pengarna – varje dag under studietiden.",
+		"cta": "Till kampanjen",
+		"image": ""
+	},
+	"info": {
+		"title": "Nyckeln till ett rikare studentliv",
+		"paragraphs": [
+			"En av de största fördelarna som student är rabatter och bättre priser – både online och i butiken på hörnet. Med ett konto får du tillgång till tusentals studentrabatter under hela din studietid.",
+			"Vi samlar studentrabatter från hundratals varumärken för att göra vardagen enklare och få studentplånboken att räcka längre. Alla rabatter finns i appen och på webben."
+		],
+		"cta": "Skapa konto och ta del av alla dina rabatter",
+		"image": ""
+	},
+	"primaryNav": [
+		{
+			"label": "Studentrabatter",
+			"href": "/",
+			"icon": "menu"
+		},
+		{
+			"label": "Kampanjer",
+			"href": "/kampanjer",
+			"icon": "tag"
+		},
+		{
+			"label": "Tävlingar",
+			"href": "/tavlingar",
+			"icon": "trophy"
+		},
+		{
+			"label": "Studentliv",
+			"href": "/studentliv",
+			"icon": "compass"
+		},
+		{
+			"label": "Jobb",
+			"href": "/jobb",
+			"icon": "briefcase"
+		}
+	],
+	"bottomNav": [
+		{
+			"label": "Hem",
+			"href": "/",
+			"icon": "home"
+		},
+		{
+			"label": "Utforska",
+			"href": "/utforska",
+			"icon": "search"
+		},
+		{
+			"label": "Kort",
+			"href": "/kort",
+			"icon": "card"
+		},
+		{
+			"label": "Kampanjer",
+			"href": "/kampanjer",
+			"icon": "badge"
+		},
+		{
+			"label": "Nyheter",
+			"href": "/nyheter",
+			"icon": "sparkles"
+		}
+	],
+	"sections": [
+		{
+			"id": "summer",
+			"heading": "Somriga studentrabatter ☀️",
+			"cards": [
+				{
+					"brand": "Volt",
+					"title": "Upp till 70 % + 10 % extra studentrabatt",
+					"condition": "Gäller nya kunder",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Kanel",
+					"title": "Upp till 25 % studentrabatt på entré",
+					"condition": "Gäller utvalda datum",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Nordo",
+					"title": "Upp till 60 % rabatt + fri frakt",
+					"condition": "Gäller endast online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Luma",
+					"title": "15 % studentrabatt i appen",
+					"condition": "Gäller ordinarie pris",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Fjord",
+					"title": "50 % rabatt i 3 månader",
+					"condition": "Nya medlemmar",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Aria",
+					"title": "Upp till 50 % studentrabatt på favoriter",
+					"condition": "Gäller online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Bern",
+					"title": "20 % studentrabatt på hela sortimentet",
+					"condition": "Gäller i butik & online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Sven",
+					"title": "Upp till 50 % + 22 % extra studentrabatt",
+					"condition": "Gäller utvalda varor",
+					"image": "",
+					"url": "#"
+				}
+			]
+		},
+		{
+			"id": "food",
+			"heading": "Mat & annat gott 🍔",
+			"cards": [
+				{
+					"brand": "Grön",
+					"title": "Måltid för 75 kr",
+					"condition": "Gäller vardagar",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Krua",
+					"title": "40 % studentrabatt på combo + dryck",
+					"condition": "Gäller online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Bönor",
+					"title": "2 för 1 på utvalt kaffe",
+					"condition": "Gäller i butik",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Pasta Co",
+					"title": "25 % studentrabatt på hela menyn",
+					"condition": "Gäller mån–tors",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Sockerbit",
+					"title": "Gratis dessert vid köp över 149 kr",
+					"condition": "En per beställning",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Havre",
+					"title": "15 % studentrabatt på leverans",
+					"condition": "Gäller första ordern",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Citrus",
+					"title": "30 % rabatt på smoothies",
+					"condition": "Gäller online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Knäcke",
+					"title": "Studentlunch för 89 kr",
+					"condition": "Gäller 11–14",
+					"image": "",
+					"url": "#"
+				}
+			]
+		},
+		{
+			"id": "weekly",
+			"heading": "Veckans tips 💡",
+			"cards": [
+				{
+					"brand": "Pixel",
+					"title": "Upp till 50 % studentrabatt på elektronik",
+					"condition": "Gäller utvalda modeller",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Stream",
+					"title": "3 månader för halva priset",
+					"condition": "Nya kunder",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Trekk",
+					"title": "20 % studentrabatt på resor",
+					"condition": "Gäller valda datum",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Måla",
+					"title": "15 % studentrabatt på kurslitteratur",
+					"condition": "Gäller online",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Flora",
+					"title": "25 % rabatt på prenumeration",
+					"condition": "Gäller första året",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Rörelse",
+					"title": "Gratis träningsvecka + 10 % rabatt",
+					"condition": "Nya medlemmar",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Boklund",
+					"title": "Upp till 20 % + 5 % extra studentrabatt",
+					"condition": "Gäller romaner",
+					"image": "",
+					"url": "#"
+				},
+				{
+					"brand": "Ljud",
+					"title": "6 månader gratis för studenter",
+					"condition": "Nya konton",
+					"image": "",
+					"url": "#"
+				}
+			]
+		}
+	],
+	"brands": [
+		{
+			"name": "& Nova",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "& Other",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "+47",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "123tech",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "24.se",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Aeon",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Alba",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Arc",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Aria",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Aurora",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Basalt",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Bern",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Boklund",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Bönor",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Citrus",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Delta",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Ember",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Fjord",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Flora",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Grön",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Havre",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Indigo",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Kanel",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Knäcke",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Krua",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Luma",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Måla",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Nordo",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Onyx",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Pixel",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Quartz",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Rörelse",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Saga",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Stream",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Sven",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Terra",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Trekk",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Umbra",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Volt",
+			"logo": "",
+			"url": "#"
+		},
+		{
+			"name": "Zephyr",
+			"logo": "",
+			"url": "#"
+		}
+	],
+	"footer": {
+		"family": [
+			{
+				"label": "Alumni",
+				"href": "#"
+			},
+			{
+				"label": "Seniordays",
+				"href": "#"
+			},
+			{
+				"label": "Talang",
+				"href": "#"
+			},
+			{
+				"label": "TraineeGuiden",
+				"href": "#"
+			}
+		],
+		"columns": [
+			{
+				"title": "Studentrabatter",
+				"links": [
+					{
+						"label": "Stockholm",
+						"href": "#"
+					},
+					{
+						"label": "Göteborg",
+						"href": "#"
+					},
+					{
+						"label": "Uppsala",
+						"href": "#"
+					},
+					{
+						"label": "Malmö",
+						"href": "#"
+					},
+					{
+						"label": "Lund",
+						"href": "#"
+					},
+					{
+						"label": "Örebro",
+						"href": "#"
+					}
+				]
+			},
+			{
+				"title": "Utforska",
+				"links": [
+					{
+						"label": "Tävlingar",
+						"href": "#"
+					},
+					{
+						"label": "Studentliv",
+						"href": "#"
+					},
+					{
+						"label": "Jobb",
+						"href": "#"
+					},
+					{
+						"label": "Nyheter",
+						"href": "#"
+					},
+					{
+						"label": "Våra kort",
+						"href": "#"
+					}
+				]
+			},
+			{
+				"title": "Om oss",
+				"links": [
+					{
+						"label": "Om företaget",
+						"href": "#"
+					},
+					{
+						"label": "Ladda ner appen",
+						"href": "#"
+					},
+					{
+						"label": "För partners",
+						"href": "#"
+					},
+					{
+						"label": "Jobba hos oss",
+						"href": "#"
+					},
+					{
+						"label": "Webbplatskarta",
+						"href": "#"
+					}
+				]
+			}
+		],
+		"social": [
+			{
+				"label": "Instagram",
+				"href": "#",
+				"icon": "instagram"
+			},
+			{
+				"label": "Facebook",
+				"href": "#",
+				"icon": "facebook"
+			},
+			{
+				"label": "TikTok",
+				"href": "#",
+				"icon": "tiktok"
+			}
+		],
+		"legal": [
+			{
+				"label": "Användarvillkor",
+				"href": "#"
+			},
+			{
+				"label": "Allmänna villkor",
+				"href": "#"
+			},
+			{
+				"label": "Personuppgiftspolicy",
+				"href": "#"
+			},
+			{
+				"label": "Cookie Policy",
+				"href": "#"
+			}
+		]
+	},
+	"pages": {
+		"tavlingar": {
+			"title": "Tävlingar",
+			"subtitle": "Var med och vinn – exklusivt för studenter.",
+			"body": [
+				"Här samlar vi aktuella tävlingar och utlottningar för dig som student. Delta gratis och vinn allt från prylar till upplevelser.",
+				"Nya tävlingar dyker upp regelbundet under terminen – håll utkik och missa inte chansen att vinna."
+			]
+		},
+		"studentliv": {
+			"title": "Studentliv",
+			"subtitle": "Tips, guider och inspiration för studietiden.",
+			"body": [
+				"Studietiden är fylld av nya upplevelser. Vi delar tips om allt från ekonomi och boende till studieteknik och nöje.",
+				"Läs våra guider för att få ut mer av din vardag som student – både på och utanför campus."
+			]
+		},
+		"jobb": {
+			"title": "Jobb",
+			"subtitle": "Hitta extrajobb och karriärmöjligheter.",
+			"body": [
+				"Vi hjälper dig att hitta extrajobb, praktik och första jobbet efter examen. Utforska lediga tjänster som passar studenter.",
+				"Skapa en profil och bli matchad med arbetsgivare som söker just din kompetens."
+			]
+		},
+		"kort": {
+			"title": "Våra kort",
+			"subtitle": "Ett kort – tusentals studentrabatter.",
+			"body": [
+				"Med vårt studentkort får du tillgång till alla rabatter, både online och i butik. Visa kortet i appen och spara direkt.",
+				"Kortet är kostnadsfritt för dig som studerar och är berättigad till studiestöd."
+			]
+		}
+	}
+}
